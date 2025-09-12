@@ -1,2 +1,2 @@
-# AI-
+# AI-Idea Support Prompt
 「AIアイデアサポートプロンプト」
